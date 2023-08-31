@@ -281,7 +281,8 @@ vim.api.nvim_create_autocmd('TextYankPost', {
 require('telescope').setup {
   extensions = {
     file_browser = {
-      hijack_netrw = true
+      hijack_netrw = true,
+      initial_mode = 'normal',
     }
   },
   defaults = {
