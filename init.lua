@@ -4,6 +4,7 @@
 ==================== READ THIS BEFORE CONTINUING ====================
 =====================================================================
 
+test
 Kickstart.nvim is *not* a distribution.
 
 Kickstart.nvim is a template for your own configuration.
